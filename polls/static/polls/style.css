@@ -5,12 +5,15 @@ body {
 
 li a {
     color: black;
-    font-family: fantasy;
+    font-family: 'courier', fantasy;
     font-size: 20px;
+    font-weight: bolder;
 }
 
 h1 {
-    color: blue;
+    color: black;
+    font-family: 'courier';
+    
 }
 
 p {
