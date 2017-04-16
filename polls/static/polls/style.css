@@ -1,12 +1,20 @@
 body {
-    background: white url(images/denice.jpg) no-repeat;
+    background: white url("images/Wood_background.png");
 }
 
 
 li a {
-    color: green;
+    color: black;
+    font-family: fantasy;
+    font-size: 20px;
 }
 
 h1 {
     color: blue;
+}
+
+p {
+    color: black;
+    font-family: cursive;
+    font-weight: bolder;
 }
